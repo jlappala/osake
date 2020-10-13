@@ -1,0 +1,46 @@
+            
+             É                               »
+                O S A K E S Ž Ž S T Ž J Ž T 
+             È                               ¼
+                  
+                  versio 1.55 (27/08/-95)
+
+
+HISTORIIKKI:
+
+versio      uutta:
+
+1.0        koko peli !
+            
+1.1        erillinen myyntiruutu pois, pelaajan omistamat osakkeet
+            n„kyviin osto/myyntiruudussa ym. pikku viilauksia...
+
+1.2        bugeja pois, uusi alkuruutu, lis„„ pikkuviilausta...
+
+1.3        rajallinen osakem„„r„, omistusprosentti
+
+1.4        'oman yhti”n' (om.pros. yli 50) konkurssi vaikuttaa pelaajan
+            talouteen, pienemm„t muutosv„lit ym.
+
+1.5        pelaajien v„linen osakekauppa, osingot huomattavasti pienemmiksi
+            (=> rahansaanti vaikeampaa )  (26/8/1995)
+
+1.55       omaisuuden saavuttaessa kahden miljardin maaagisen rajan peli
+           loppuu. (27/8/1995)
+
+
+Tulossa:    - pelin tallennus (jos tulee... emme saaneet toimimaan!)
+
+            - erillinen alkuvalikko
+              * alkuasetuksien muuttelu (varat, osakkeiden arvo yms.)
+
+
+
+Credits:    IDEA:        on "varastettu" Sami K”yk„n samannimisest„ pelist„
+                         vuodelta -84 Vic-20:lle.
+
+            SUUNNITTELU: Esa Heikkinen ja Jouni Lappalainen
+
+            TOTEUTUS:    (Turbo-Pascal 6.0) Esa Heikkinen
+            kis„lli:     Jouni Lappalainen
+
