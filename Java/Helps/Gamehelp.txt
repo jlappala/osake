@@ -1,0 +1,153 @@
+GAME HELP
+
+GAME STORY: The idea of the game is to be a traditional marketing game
+with using stocks.You buy stocks and try to make profit with those by
+selling them with higher price. The cheaper you buy and the higher
+price you sell is a key to victory. So find out who is the business king! 
+
+Notice that the update of the stock value is done randomly so
+there are no differences between companies and the value can change
+either positive or negative way.
+There are also risks that if you buy stocks which value is very low.
+Because if the stock value
+reaches the value 0 the company will go to bankruptcy and your stocks are worthless.
+
+If you feel that you do not have enough money, you can always take a loan from bank.
+But remember, all you loan has to be paid back with interests!
+So be careful or debts will become uncontrollable.
+
+VIEWS:
+
+The game has one main window that stays on during the game and when doing functions. 
+
+
+The most important thing is the Table that shows info about stocks. 
+
+*	No: The number of stock
+
+*	Company:  The name of the company
+
+*	Stocks:  The amount of stocks on market
+
+*	Value: The value of stocks. If the value goes to 0
+	 the company will go bankruptcy.
+	Then all the stocks you own from that company are worthless
+
+*	Avg. spent: The average amount per stocks you have spent
+
+*	Owned: The amount of stocks you do have
+
+*	NASDAG Info: Shows you all the messages that server sends to players
+
+*	Broker chat: Is a chat window that shows what other players type
+	 you can write yourself to a space below it
+
+Table will update its stats depending the Update interval which was set
+in game lobby. 
+
+The areas on the up show following information:
+
+Money: How much money you have
+Total wealth: The value of your stocks and bank deposits.
+
+GAME FUNCTIONALITY:
+
+BUY STOCK: For buying stocks, click the stock on the list you would like to buy
+and then click the Buy stock button. After that put the amount of stocks you
+want to buy.
+Then the purchase will be confirmed.
+If you do not have enough money for buying, the game will inform you by saying
+You do not have enough money.
+If there are no stocks on market, the game will inform you with Not enough stocks
+
+BUY WITH ALL MONEY: For buying stocks using all your money, click the stock
+on the list you would like to buy and then click the Buy with all money button.
+Then the purchase will be confirmed. If there are no stocks on markeT
+the game will inform you with Not enough stocks.
+
+SELL STOCK: For selling stocks, click the stock on the list you would like to sell
+and then click the Sell stock button. After that put the amount of stocks
+you want to sell.
+Then the selling will be confirmed.
+If you do not have enough stocks for selling, the game will inform you
+by saying Not enough stocks.
+
+SELL ALL STOCK: For selling all your stocks, click the stock on the list
+you would like to sell and then click the Sell all stock button.
+Then the selling will be confirmed. If you do not have stocks for selling,
+the game will inform you by saying Not enough stocks.
+
+OTHER PLAYERS: For seeing what other players have. The value is the amount of
+their stocks when calculated to money. The money in bank is not included!
+
+BANK: You can take a loan from the bank.. see more info from bankhelp.
+
+START GAME: Start the game by clicking this button.
+
+QUIT GAME: For quitting the game click Quit game button.
+It will take you to game lobby.
+
+
+HOTKEYS:
+
+You are also able to move on the stock table using arrows.
+
+The game includes hotkeys which can be used there. 
+
+*	Ctrl + b  to buy stocks
+*	Ctrl + s  to sell stocks
+
+
+RANDOMS:
+
+There are also several random things that may occur during the game. They will affect
+the game someway:
+
+*	The stock market is in RECESSION,
+	the value of shares is diminishing! The end is nigh!
+
+	Stock markets are not doing well because of recession and the worth
+	of stocks will reduce
+
+*	Times are tough and X has gone bankrupt.
+	A sudden boost in economy could give it a fresh start though.
+
+	Company X has gone bankcrupt and it needs
+	an economy boost for a new start
+
+*	Due to global upswing in business, every company
+	is suddenly worth more! The future looks bright!
+
+	Companies are more worth when global upswing occurs also
+	companies that have gone bankcrupty get a fresh start.
+
+A couple of randoms are also for the bank so see more from bank help!!
+
+
+GAME ENDING:
+
+The game will end when one of these situations happen
+
+*	 All the stocks are sold
+
+*	 One player reaches the Game ending value which was set at the
+	 start of the game
+
+*	 All players go to personal bankcruptcy.
+ 
+When the info screen says: X has amassed impressive amount of wealth. 
+it means that player X is near the game ending value and so winning the game.
+
+When the info screen says: Rumor has it that X investments are doing quite bad.
+it means that player X is near the personal bankcrupty
+
+The winner of the game is the player who has the biggest sum of money
+when all the money, stocks, deposits and debts are calculated together.
+If the player has debts for bank the debts will be calculated to the final sum. 
+
+ENDING SCREEN:
+
+Congratulations!
+The ending screen shows the final standings of the game. You can sort
+the players by: best overall, most loans, most savings and best stock value.
+You can quit the game by clicking Back to lobby.

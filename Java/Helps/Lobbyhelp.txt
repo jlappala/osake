@@ -1,0 +1,27 @@
+GAME LOBBY HELP 
+
+Welcome to play Stock Exchanger!
+
+You are now in a game lobby. Here you can start a new game or join one.
+
+Create a new game: For starting a new game first you have to set the name of your game.
+Then you can modify your game settings with using spinners. 
+
+*	Game name: Enter your game name
+*	Update interval: How often the game will update changes in stocks
+	( per seconds)
+*	Starting funds: How much money each player will have when game starts
+*	Stock startvalue: How much each stock cost when game starts
+*	Stock on market: How many stocks will be on market
+*	Game ending value: The game will end when one of the players
+	reach this value
+
+When you have done settings, click Create game button and the game will appear
+to Join game list.
+
+The Area below Create game shows you all players online
+
+Join game: For joining an already existing game click Join game button
+then type the name of the game.
+
+Quit game: For quitting the whole game click quit button.

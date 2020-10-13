@@ -1,0 +1,50 @@
+BANK HELP: 
+
+Welcome to the Big Bank!
+
+General rules: There are a couple of things you can do in the bank.
+
+*	Deposit Money: Deposit money to bank and it will start to make profit
+ 	with 3% in every 13 seconds 
+
+*	Withdraw Money: Withdraw x amount of money you have deposited to bank
+
+*	Withdraw All Money: Withdraw all the money you have deposited to bank
+
+*	Take Loan: Take a loan from bank for your businesses.
+	You can loan as much as you want, but remember all you loan must be
+	paid back with interests or you may go to a personal bankruptcy.
+	Loan also grows every 13 seconds for 3%
+
+*	Pay Loan: Pay loan back to the bank. You can pay as much as you want
+	but remember that the debt interest will grow until you have paid
+	all the debts.
+
+Bank infoarea do show following data:
+
+Savings
+Interest rate: shows the interest when you deposit money
+Total savings: shows the money you have deposited
+
+Loans 
+Interest rate: shows the interest when you loan money
+Total loans: shows the money you have loaned
+
+RANDOMS
+
+There are a few random things that may occur in bank context
+
+*	The banks are in crisis! Interest rate on all loans has increased by 10 %!
+	
+	Interest rates will grow 10 % So be careful or the loan may become
+	uncontrollable
+	
+*	The bank crisis seems to be finally over, interest rates are back to normal!
+
+	Interest rates are back to normal 3 %
+	
+*	The loan market is in crisis! Your bank had to increase the amounts
+	of owed money on all their loans!
+
+	Because of loan market crisis, bank will increase the the amounts of owed
+	money on their loans so your loan will grow. 

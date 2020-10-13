@@ -1,0 +1,20 @@
+//Set company names
+company1=Siemens
+company2=Nokia
+company3=Rautaruukki
+company4=Sonera
+company5=Tieto
+company6=Konecranes
+company7=Kesko
+company8=Hesburger
+company9=Stockman
+company10=Trainers House
+company11=VR
+company12=Alma Media
+company13=Finnair
+company14=Itella
+company15=Fortum
+
+//Set interest rates
+loanInterest=1.03
+depositInterest=1.03
