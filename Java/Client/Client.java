@@ -13,7 +13,7 @@ public class Client{
 	private MessageHandler handler;
 	private BufferedReader in;
 	private Writer op;
-	private final String serverIP = "80.223.253.248";
+	private final String serverIP = "192.168.1.100";
 	private final int serverPort = 9000;
 	protected Socket clientSocket = null;
 	protected SocketListener ml;
